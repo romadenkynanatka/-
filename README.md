@@ -110,7 +110,7 @@
 <body>
   <header>
     <div class="photo-container">
-      <img src="photo.jpg" alt="Наталья Ромаденкина" class="profile-photo">
+      <img src="image.jpg.jfif" alt="Наталья Ромаденкина" class="profile-photo">
     </div>
     <h1>Наталья Ромаденкина</h1>
     <span class="handle">@facefit_beauty</span>
